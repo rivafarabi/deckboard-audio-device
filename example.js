@@ -1,0 +1,3 @@
+const Audio = require('.');
+
+return;

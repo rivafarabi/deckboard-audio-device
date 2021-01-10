@@ -1,0 +1,7 @@
+name: Audio Device Select
+package: deckboard-audio-device
+version: 1.0.0
+description: Toggle the active audio output device
+author: Riva Farabi
+license: MIT
+repository: "https://github.com/rivafarabi/deckboard-audio-device"
